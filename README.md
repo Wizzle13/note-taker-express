@@ -20,7 +20,7 @@
 ![npm express](https://img.shields.io/npm/v/express?label=express&style=plastic)
   
  ## Screenshots
- <img src = "  .images/screenshot.jpg">
+ <img src = "./images/screenshot.png">
 
 ## Links
 GitHub Repository: https://github.com/wizzle13/note-taker-express
