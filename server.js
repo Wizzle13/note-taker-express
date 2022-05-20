@@ -9,11 +9,10 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // routes
-app.use('/api/notes', apiRoutes);
-app.use('/notes', htmlRoutes);
+app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {
-    console.log(`API server now on prot ${PORT}`);
+    console.log(`API server now on port ${PORT}`);
 });
 
