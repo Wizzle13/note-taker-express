@@ -16,4 +16,15 @@ router.post('/notes', (req,res) => {
     res.json(results);
 });
 
+// // Delete Record
+// router.delete('/notes/:id', (req,res) => {
+//     if(notes.length <= req.params.id) {
+//         res.statusCode = 404;
+//         return res.send('Error 404: No quote found');
+//     }
+    
+//     notes.splice(req.params.id, 1);
+    
+// });
+
 module.exports = router;

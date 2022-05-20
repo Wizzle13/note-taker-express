@@ -25,7 +25,7 @@
 ## Links
 GitHub Repository: https://github.com/wizzle13/note-taker-express
 
-Heroku URL: https://wizzle13.github.io/note-taker-express
+Heroku URL: https://burton-note-taker.herokuapp.com/
 
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
